@@ -10,7 +10,7 @@ HoroscopeChatbot is an AI-powered chatbot designed to provide detailed horoscope
 - **Modular and Scalable**: Easy to expand with more data or additional horoscope insights.
 
 ## How It Works
-HoroscopeChatbot leverages Pinecone for vector storage and Ollama for embeddings and language model execution. Documents containing horoscope information are pre-processed, split, and embedded into Pinecone, making them retrievable based on user queries. The chatbot retrieves the most relevant context and uses the Llama 3.2 3B language model to generate informative responses.
+HoroscopeChatbot leverages Pinecone for vector storage and Ollama for embeddings and language model execution. Documents containing horoscope information are pre-processed, split, and embedded into Pinecone, making them retrievable based on user queries. The chatbot retrieves the most relevant context and uses the Llama 3.2 3B language model to generate informative responses. All MiniLM 22M model is used for embedding. 
 
 ## File Structure
 - **horoscope2025.txt** – Data sourced from [AstroStyle 2025 Horoscopes](https://astrostyle.com/2025-horoscopes-astrology-forecasts-zodiac-signs/) and [KarmaWeather 2025 Horoscope](https://www.karmaweather.com/news/yearly-horoscope/2025-horoscope).
