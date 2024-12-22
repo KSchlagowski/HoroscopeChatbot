@@ -1,7 +1,7 @@
 # HoroscopeChatbot
 
 ## Project Overview
-HoroscopeChatbot is an AI-powered chatbot designed to provide detailed horoscope insights for 2025. Utilizing Retrieval-Augmented Generation (RAG) and Pinecone vector storage, the chatbot delivers highly accurate and context-aware responses to user queries about horoscopes. This project highlights expertise in language models, vector databases, and AI-driven chat interfaces.
+HoroscopeChatbot is an AI-powered chatbot designed to provide detailed horoscope insights for 2025. Utilizing Retrieval Augmented Generation (RAG) and Pinecone vector storage, the chatbot delivers highly accurate and context-aware responses to user queries about horoscopes. This project highlights expertise in language models, vector databases, and AI-driven chat interfaces.
 
 ## Features
 - **Accurate Horoscope Predictions for 2025**: Get personalized horoscope insights based on stored data.
